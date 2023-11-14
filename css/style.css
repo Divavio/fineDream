@@ -47,7 +47,7 @@ body {
 }
 
 .header {
-    background-image: url('/images/bg.jpg');
+    background-image: url('../images/bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -95,7 +95,7 @@ body {
 
 .hero {
     padding: 60px 0 100px;
-    background-image: url('/images/hero_bg.jpg');
+    background-image: url('..//images/hero_bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
@@ -194,7 +194,7 @@ body {
 }
 
 .comparison {
-    background-image: url(/images/comparison/bg.jpg);
+    background-image: url('..//images/comparison/bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center bottom;
