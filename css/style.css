@@ -135,12 +135,12 @@ body {
 }
 
 .hero__descr-text-1::before {
-    content: url(/images/arrow.png);
+    content: url(..//images/arrow.png);
     padding-right: 15px;
 }
 
 .hero__descr-text-2::before {
-    content: url(/images/feather.png);
+    content: url(..//images/feather.png);
     padding-right: 15px;
 }
 
